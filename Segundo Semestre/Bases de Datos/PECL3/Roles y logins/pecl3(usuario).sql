@@ -1,0 +1,14 @@
+﻿CREATE ROLE "Usuario"
+	NOSUPERUSER INHERIT NOCREATEDB NOCREATEROLE NOREPLICATION;
+
+GRANT INSERT, UPDATE, DELETE
+ON public."Compra_Disco"
+TO "Usuario";
+
+GRANT INSERT, UPDATE, DELETE
+ON public."Compra_Entrada"
+TO "Usuario";
+
+GRANT INSERT, UPDATE, DELETE
+ON public."Usuario"
+TO "Usuario";

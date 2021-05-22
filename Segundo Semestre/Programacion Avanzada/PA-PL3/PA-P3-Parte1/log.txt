@@ -1,0 +1,140 @@
+Comprador-0 espera para entrar.
+Comprador-0 entra al supermercado.
+Comprador-0 entra a la cola de la carniceria.
+Comprador-0 es atendido en la carniceria.
+Comprador-1 espera para entrar.
+Comprador-1 entra al supermercado.
+Comprador-1 va a los estantes.
+Comprador-2 espera para entrar.
+Comprador-2 entra al supermercado.
+Comprador-2 entra a la cola de la pescaderia.
+Comprador-2 es atendido en la pescaderia.
+Comprador-3 espera para entrar.
+Comprador-3 entra al supermercado.
+Comprador-3 va a los estantes.
+Comprador-4 espera para entrar.
+Comprador-4 entra al supermercado.
+Comprador-4 entra a la cola de la pescaderia.
+Comprador-0 esta esperando en la cola para pagar.
+Comprador-0 esta siendo atendido por Cajera 1.
+Comprador-1 sale de los estantes.
+Comprador-1 esta esperando en la cola para pagar.
+Comprador-1 esta siendo atendido por Cajera 2.
+Comprador-5 espera para entrar.
+Comprador-5 entra al supermercado.
+Comprador-5 va a los estantes.
+Comprador-2 esta esperando en la cola para pagar.
+Comprador-4 es atendido en la pescaderia.
+Comprador-6 espera para entrar.
+Comprador-6 entra al supermercado.
+Comprador-6 entra a la cola de la carniceria.
+Comprador-6 es atendido en la carniceria.
+Comprador-7 espera para entrar.
+Comprador-7 entra al supermercado.
+Comprador-7 entra a la cola de la carniceria.
+Comprador-8 espera para entrar.
+Comprador-8 entra al supermercado.
+Comprador-8 entra a la cola de la pescaderia.
+Comprador-7 es atendido en la carniceria.
+Comprador-6 esta esperando en la cola para pagar.
+Comprador-9 espera para entrar.
+Comprador-9 entra al supermercado.
+Comprador-9 entra a la cola de la carniceria.
+Comprador-10 espera para entrar.
+Comprador-10 entra al supermercado.
+Comprador-10 va a los estantes.
+Comprador-0 sale del supermercado.
+Comprador-2 esta siendo atendido por Cajera 1.
+Comprador-8 es atendido en la pescaderia.
+Comprador-4 esta esperando en la cola para pagar.
+Comprador-11 espera para entrar.
+Comprador-11 entra al supermercado.
+Comprador-11 entra a la cola de la pescaderia.
+Comprador-12 espera para entrar.
+Comprador-1 sale del supermercado.
+Comprador-11 es atendido en la pescaderia.
+Comprador-15 espera para entrar.
+Comprador-3 sale de los estantes.
+Comprador-9 es atendido en la carniceria.
+Comprador-7 esta esperando en la cola para pagar.
+Comprador-15 entra al supermercado.
+Comprador-15 entra a la cola de la carniceria.
+Comprador-2 sale del supermercado.
+Comprador-5 sale de los estantes.
+Comprador-16 espera para entrar.
+Comprador-6 esta siendo atendido por Cajera 2.
+Comprador-3 esta esperando en la cola para pagar.
+Comprador-16 entra al supermercado.
+Comprador-16 va a los estantes.
+Comprador-8 esta esperando en la cola para pagar.
+Comprador-12 entra al supermercado.
+Comprador-12 entra a la cola de la carniceria.
+Comprador-13 espera para entrar.
+Comprador-4 esta siendo atendido por Cajera 1.
+Comprador-13 entra al supermercado.
+Comprador-13 entra a la cola de la pescaderia.
+Comprador-5 esta esperando en la cola para pagar.
+Comprador-14 espera para entrar.
+Comprador-18 espera para entrar.
+Comprador-17 espera para entrar.
+Comprador-18 entra al supermercado.
+Comprador-18 entra a la cola de la pescaderia.
+Comprador-14 entra al supermercado.
+Comprador-14 va a los estantes.
+Comprador-17 entra al supermercado.
+Comprador-17 entra a la cola de la pescaderia.
+Comprador-19 espera para entrar.
+Comprador-19 entra al supermercado.
+Comprador-19 entra a la cola de la carniceria.
+Comprador-20 espera para entrar.
+Comprador-20 entra al supermercado.
+Comprador-20 entra a la cola de la pescaderia.
+Comprador-9 esta esperando en la cola para pagar.
+Comprador-15 es atendido en la carniceria.
+Comprador-21 espera para entrar.
+Comprador-21 entra al supermercado.
+Comprador-21 entra a la cola de la pescaderia.
+Comprador-22 espera para entrar.
+Comprador-22 entra al supermercado.
+Comprador-22 entra a la cola de la carniceria.
+Comprador-14 sale de los estantes.
+Comprador-14 esta esperando en la cola para pagar.
+Comprador-11 esta esperando en la cola para pagar.
+Comprador-13 es atendido en la pescaderia.
+Comprador-10 sale de los estantes.
+Comprador-10 esta esperando en la cola para pagar.
+Comprador-6 sale del supermercado.
+Comprador-7 esta siendo atendido por Cajera 2.
+Comprador-15 esta esperando en la cola para pagar.
+Comprador-12 es atendido en la carniceria.
+Comprador-23 espera para entrar.
+Comprador-23 entra al supermercado.
+Comprador-23 va a los estantes.
+Comprador-4 sale del supermercado.
+Comprador-3 esta siendo atendido por Cajera 1.
+Comprador-24 espera para entrar.
+Comprador-24 entra al supermercado.
+Comprador-24 va a los estantes.
+Comprador-12 esta esperando en la cola para pagar.
+Comprador-19 es atendido en la carniceria.
+Comprador-25 espera para entrar.
+Comprador-13 esta esperando en la cola para pagar.
+Comprador-18 es atendido en la pescaderia.
+Comprador-24 sale de los estantes.
+Comprador-24 esta esperando en la cola para pagar.
+Comprador-23 sale de los estantes.
+Comprador-23 esta esperando en la cola para pagar.
+Comprador-19 esta esperando en la cola para pagar.
+Comprador-8 esta siendo atendido por Cajera 2.
+Comprador-18 esta esperando en la cola para pagar.
+Comprador-5 esta siendo atendido por Cajera 1.
+Comprador-16 sale de los estantes.
+Comprador-16 esta esperando en la cola para pagar.
+Comprador-9 esta siendo atendido por Cajera 2.
+Comprador-14 esta siendo atendido por Cajera 1.
+Comprador-11 esta siendo atendido por Cajera 2.
+Comprador-10 esta siendo atendido por Cajera 1.
+Comprador-15 esta siendo atendido por Cajera 2.
+Comprador-12 esta siendo atendido por Cajera 1.
+Comprador-13 esta siendo atendido por Cajera 1.
+Comprador-24 esta siendo atendido por Cajera 2.

@@ -1,0 +1,9 @@
+Alumnos:
+	Álvaro Pérez Álamo
+	Javier de la Peña García
+
+Bloques entregados:
+	-Bloque 1
+	-Bloque 2.1
+	-Bloque 2.2
+	-Bloque 2.3
