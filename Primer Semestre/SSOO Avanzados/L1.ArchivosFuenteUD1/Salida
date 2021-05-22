@@ -1,0 +1,68 @@
+¡Hola mundo!
+
+Función printf(): 0x400550
+Función main(): 0x4006b3
+
+	Variables globales (dir., nombre, valor):
+		0x602060  a  34
+		0x602074  b  0
+		0x602064  c  -5
+		0x602070  d  0.000000
+		0x60206c  D  0
+		0x602078  k  0
+
+	Variables locales (dir., nombre, valor):
+		0x7ffc9417f428  x  3
+		0x7ffc9417f42c  y  0               
+	// Como podemos observar, las variables locales no se almacenan en el mismo sitio que las 	     variables globales. ARGC y ARGV se almacenan cerca de las locales
+
+	Calculando 3! ...
+	Función factorial(3): 0x400843
+		Parámetro n (dir., valor): 0x7ffc9417f3ec  3
+		Variable f (dir., valor):  0x7ffc9417f3fc  32764
+	Función factorial(2): 0x400843
+		Parámetro n (dir., valor): 0x7ffc9417f3bc  2
+		Variable f (dir., valor):  0x7ffc9417f3cc  32556
+	Función factorial(1): 0x400843
+		Parámetro n (dir., valor): 0x7ffc9417f38c  1
+		Variable f (dir., valor):  0x7ffc9417f39c  32556
+		factorial(1) devolviendo 1
+		factorial(2) devolviendo 2
+		factorial(3) devolviendo 6
+	3! == 6
+
+	Función mem_dinamica(): 0x400a23
+
+	Variables locales (dir., nombre, valor):
+		0x7ffc9417f3e0  p  0x400e85
+		0x7ffc9417f3e8  q  0x37ff9eea2
+		0x7ffc9417f3f0  r  (nil)
+		0x7ffc9417f3f8  s  0x69417f430
+
+	Bloques de memoria reservados:
+		p (7 enteros):  0x1214010
+		q (37 char): 0x1214040
+		r (5 char): 0x1214070
+		s (1 char): 0x1214090
+
+	Aritmética de punteros:
+		p = 0x1214010 	 p+1 = 0x1214014
+		q = 0x1214040 	 q+1 = 0x1214041
+
+	¡Jau, rostro pálido!
+
+	Dualidad caracter/numero del tipo char:
+		*r es un char, y vale 74
+		pero también vale J
+
+	Función cadenas(): 0x4008da
+		a: 0x7ffc9417f3e0  "hola"
+		b: 0x7ffc9417f3f0  "hola"
+		c: 0x400f40  "hasta luego"
+		&c: 0x7ffc9417f3d8
+		Jugando un poco con c...
+		a: 0x7ffc9417f3e0  "Hola"
+		b: 0x7ffc9417f3f0  "hola"
+		c: 0x7ffc9417f3e0  "Hola"
+		&c: 0x7ffc9417f3d8
+

@@ -1,0 +1,8 @@
+1.- We have 10h in al, and 04h in cl. When we do shl, the value in 
+    binary of al shifts 4 bits to the left (as cl is o4h), so as it is
+    1 0000 it would be 1 0000 0000, which is 100h, but al only 
+    allows a byte, so 9 bits don't fit and it leaves 0000 0000, 00h.
+
+2.- If we write shr instead of shl 1 0000 in al turns into 1, or 01h,
+    because it shifts 4 bits to the right instead to the left. What we
+    are doing, in fact, is dividing between 16, or 1000.

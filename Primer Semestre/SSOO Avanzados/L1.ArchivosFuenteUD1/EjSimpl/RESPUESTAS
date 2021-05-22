@@ -1,0 +1,7 @@
+1.- No, no están en el mismo lugar las variables globales (0x601...) y las locales (0x7fff...).
+
+2.- Las variables argc y argv están cerca de las variables locales (0x7fff...).
+
+3, 4.- A las globales sin valor inicial se les asigna el valor '0', pero las locales sin valor inicial no tienen ningún valor (aparece <optimized out>).
+
+5.- Las variables globales inicializadas las guarda antes en memoria (0x601030, 0x601034) y después las no inicializadas (0x601044).
